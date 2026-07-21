@@ -24,7 +24,7 @@ DB_CONFIG = {
 }
 
 #  FILE PATH 
-CSV_PATH = "superstore_clean.csv"  
+CSV_PATH = "superstore.csv"  
 
 #  COLUMN MAPPING: CSV header -> staging table column
 COLUMN_MAP = {
